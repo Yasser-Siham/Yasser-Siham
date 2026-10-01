@@ -55,5 +55,5 @@ Passionné par l'Intelligence Artificielle, le Machine Learning, le développeme
 ---
 
 ### 📫 Contact
-![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+[![Gmail](https://img.shields.io/badge/yassirsiham680@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yassirsiham680@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasser-siham)
