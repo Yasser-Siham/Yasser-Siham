@@ -1,4 +1,4 @@
-# 👋 مرحباً، أنا ياسر (Yasser SIHAM)
+# 👋 Yasser SIHAM
 
 🎓 **Élève Ingénieur en Informatique | AI & Data Engineering** — EST Nador
 
