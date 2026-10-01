@@ -16,12 +16,17 @@ Passionné par l'Intelligence Artificielle, le Machine Learning, le développeme
 
 ---
 
-### 🎯 Domaines d'expertise
-* 🤖 Intelligence Artificielle & Machine Learning
-* ⚙️ Développement Backend (Architectures SaaS, APIs)
-* 📊 Data Science & Data Engineering
-* 🌐 Développement Web Full Stack
-* 🧊 Visualisation 3D (WebGL, Three.js)
+### 🎯 Spécialité & Formation Académique (Cœur de compétences)
+* 🤖 **Intelligence Artificielle & Machine Learning** (Scikit-learn, TensorFlow, Modèles de prédiction et classification)
+* 📊 **Data Science & Data Engineering** (Manipulation de données complexes, Pandas, NumPy)
+* ⚙️ **Développement Backend & Conception Orientée Objet** (Java, APIs REST, NestJS, Bases de données SQL/NoSQL)
+
+---
+
+### 🌱 Auto-formation & Exploration Continue (Projets personnels)
+* 🌐 **Développement Web Frontend** (React, Tailwind CSS)
+* 🧊 **Visualisation 3D & Informatique Graphique** (WebGL, Three.js, Traitement Point-cloud)
+* 🧠 **IA Générative & Agents** (Exploration des LLMs, intégration avec Google AI Studio)
 
 ---
 
